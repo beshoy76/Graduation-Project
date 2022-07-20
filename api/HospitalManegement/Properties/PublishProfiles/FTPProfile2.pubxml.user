@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAuKeM2EhKT06O4ugwlwiOwQAAAAACAAAAAAAQZgAAAAEAACAAAAAhX8MUZizIni4YWc26u05qWAVasyRWbvqhGRGvRvcYQgAAAAAOgAAAAAIAACAAAADWczByKcUiIw8irLug/FuIKmhUgN/SiuAFAamjP+boRCAAAAAdWtea6vvRsh8ouXW+xOO+4o/jASmXMttkOs4T0dYDwEAAAABD8QwWmuov5bxfGJnblPwQFA2jnGQo6G+/AV2CY4jPz2LOVH/f8HP8Kzo8dcFnNvDolUqR1CC21/ixUau2RUGk</EncryptedPassword>
+    <_PublishTargetUrl>ftp://apihospital.somee.com/www.apihospital.somee.com</_PublishTargetUrl>
+    <History>False|2022-03-31T15:04:22.2806645Z;False|2022-03-31T17:01:42.3289078+02:00;False|2022-03-31T16:58:28.8305853+02:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="EmployeeDBConnection">
+      <Value>workstation id=HospitalData.mssql.somee.com%3bpacket size=4096%3buser id=beso3599_SQLLogin_1%3bpwd=42c4hcmu5m%3bdata source=HospitalData.mssql.somee.com%3bpersist security info=False%3binitial catalog=HospitalData</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

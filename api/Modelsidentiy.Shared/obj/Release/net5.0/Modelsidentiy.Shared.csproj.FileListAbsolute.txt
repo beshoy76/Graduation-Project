@@ -1,0 +1,39 @@
+E:\courses\Modelsidentiy.Shared\bin\Release\net5.0\Modelsidentiy.Shared.deps.json
+E:\courses\Modelsidentiy.Shared\bin\Release\net5.0\Modelsidentiy.Shared.dll
+E:\courses\Modelsidentiy.Shared\bin\Release\net5.0\ref\Modelsidentiy.Shared.dll
+E:\courses\Modelsidentiy.Shared\bin\Release\net5.0\Modelsidentiy.Shared.pdb
+E:\courses\Modelsidentiy.Shared\obj\Release\net5.0\Modelsidentiy.Shared.csproj.AssemblyReference.cache
+E:\courses\Modelsidentiy.Shared\obj\Release\net5.0\Modelsidentiy.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\courses\Modelsidentiy.Shared\obj\Release\net5.0\Modelsidentiy.Shared.AssemblyInfoInputs.cache
+E:\courses\Modelsidentiy.Shared\obj\Release\net5.0\Modelsidentiy.Shared.AssemblyInfo.cs
+E:\courses\Modelsidentiy.Shared\obj\Release\net5.0\Modelsidentiy.Shared.csproj.CoreCompileInputs.cache
+E:\courses\Modelsidentiy.Shared\obj\Release\net5.0\Modelsidentiy.Shared.dll
+E:\courses\Modelsidentiy.Shared\obj\Release\net5.0\ref\Modelsidentiy.Shared.dll
+E:\courses\Modelsidentiy.Shared\obj\Release\net5.0\Modelsidentiy.Shared.pdb
+E:\courses\api\Modelsidentiy.Shared\bin\Release\net5.0\Modelsidentiy.Shared.deps.json
+E:\courses\api\Modelsidentiy.Shared\bin\Release\net5.0\Modelsidentiy.Shared.dll
+E:\courses\api\Modelsidentiy.Shared\bin\Release\net5.0\ref\Modelsidentiy.Shared.dll
+E:\courses\api\Modelsidentiy.Shared\bin\Release\net5.0\Modelsidentiy.Shared.pdb
+E:\courses\api\Modelsidentiy.Shared\obj\Release\net5.0\Modelsidentiy.Shared.csproj.AssemblyReference.cache
+E:\courses\api\Modelsidentiy.Shared\obj\Release\net5.0\Modelsidentiy.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\courses\api\Modelsidentiy.Shared\obj\Release\net5.0\Modelsidentiy.Shared.AssemblyInfoInputs.cache
+E:\courses\api\Modelsidentiy.Shared\obj\Release\net5.0\Modelsidentiy.Shared.AssemblyInfo.cs
+E:\courses\api\Modelsidentiy.Shared\obj\Release\net5.0\Modelsidentiy.Shared.csproj.CoreCompileInputs.cache
+E:\courses\api\Modelsidentiy.Shared\obj\Release\net5.0\Modelsidentiy.Shared.dll
+E:\courses\api\Modelsidentiy.Shared\obj\Release\net5.0\ref\Modelsidentiy.Shared.dll
+E:\courses\api\Modelsidentiy.Shared\obj\Release\net5.0\Modelsidentiy.Shared.pdb
+D:\university\graduation project\api\Modelsidentiy.Shared\bin\Release\net5.0\Modelsidentiy.Shared.deps.json
+D:\university\graduation project\api\Modelsidentiy.Shared\bin\Release\net5.0\Modelsidentiy.Shared.runtimeconfig.json
+D:\university\graduation project\api\Modelsidentiy.Shared\bin\Release\net5.0\Modelsidentiy.Shared.runtimeconfig.dev.json
+D:\university\graduation project\api\Modelsidentiy.Shared\bin\Release\net5.0\Modelsidentiy.Shared.dll
+D:\university\graduation project\api\Modelsidentiy.Shared\bin\Release\net5.0\ref\Modelsidentiy.Shared.dll
+D:\university\graduation project\api\Modelsidentiy.Shared\bin\Release\net5.0\Modelsidentiy.Shared.pdb
+D:\university\graduation project\api\Modelsidentiy.Shared\obj\Release\net5.0\Modelsidentiy.Shared.csproj.AssemblyReference.cache
+D:\university\graduation project\api\Modelsidentiy.Shared\obj\Release\net5.0\Modelsidentiy.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\university\graduation project\api\Modelsidentiy.Shared\obj\Release\net5.0\Modelsidentiy.Shared.AssemblyInfoInputs.cache
+D:\university\graduation project\api\Modelsidentiy.Shared\obj\Release\net5.0\Modelsidentiy.Shared.AssemblyInfo.cs
+D:\university\graduation project\api\Modelsidentiy.Shared\obj\Release\net5.0\Modelsidentiy.Shared.csproj.CoreCompileInputs.cache
+D:\university\graduation project\api\Modelsidentiy.Shared\obj\Release\net5.0\Modelsidentiy.Shared.dll
+D:\university\graduation project\api\Modelsidentiy.Shared\obj\Release\net5.0\ref\Modelsidentiy.Shared.dll
+D:\university\graduation project\api\Modelsidentiy.Shared\obj\Release\net5.0\Modelsidentiy.Shared.pdb
+D:\university\graduation project\api\Modelsidentiy.Shared\obj\Release\net5.0\Modelsidentiy.Shared.genruntimeconfig.cache

@@ -1,0 +1,2 @@
+Scaffold-DbContext "Data Source=DESKTOP-8HPJH1D\MSSQLSERVER01;Initial Catalog=graduatehospitalMod;Integrated Security=True;Trusted_Connection=True;
+" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
